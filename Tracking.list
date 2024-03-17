@@ -1,0 +1,109 @@
+＃ 隐私
+域名后缀，adjust.com
+域名后缀,airpr.com
+域名后缀,cr-nielsen.com
+域名后缀，hotjar.com
+域名后缀，hotjar.io
+域名后缀，hs-analytics.net
+域名后缀,kissmetrics.com
+域名后缀,kochava.com
+域名后缀，liadm.com
+域名后缀,marketo.com
+域名后缀，mobileapptracking.com
+域名后缀,marticle.com
+域名后缀,nexac.com
+域名后缀，nr-data.net
+域名后缀,pardot.com
+域名后缀,parrable.com
+域名后缀,petametrics.com
+域名后缀,predic.io
+域名后缀,quantcount.com
+域名后缀,quantserve.com
+域名后缀,rtbasia.com
+域名后缀,scorecardresearch.com
+域名后缀，seewhy.com
+域名后缀，segment.com
+域名后缀，segment.io
+域名后缀，segmentify.com
+域名后缀,sentiance.com
+域名后缀，serverbid.com
+域名后缀，sessionm.com
+域名后缀,smartlook.com
+域名后缀，socdm.com
+域名后缀,socialannex.com
+域名后缀,socialbakers.com
+域名后缀,sociaplus.com
+域名后缀,stathat.com
+域名后缀，stats-locations.com
+域名后缀，tagcommander.com
+域名后缀，tailtarget.com
+域名后缀,tapad.com
+域名后缀，tapfiliate.com
+域名后缀，tapinfluence.com
+域名后缀，tapstream.com
+域名后缀,tend.io
+域名后缀,trackingio.com
+域名后缀,woopra.com
+域名后缀,wootric.com
+域名后缀,wowanalytics.co.uk
+域名后缀,zoomanalytics.co
+
+域名后缀，ads.linkedin.com
+域名，analytics.slashdotmedia.com
+域名,zgsdk.zhugeio.com
+
+# > 51.LA
+域名，js.users.51.la
+域名，mc.51.la
+域名，sdk.51.la
+域名，wc.51.la
+# > 58
+域名,track.58.com
+域名,tracklog.58.com
+# > 安天
+域名,miav-cse.avlyun.com
+域名,miui-fxcse.avlyun.com
+# > 苹果
+域名，令牌.safebrowsing.apple
+#> 百度
+域名,hm.baidu.com
+域名,hmma.baidu.com
+# > 道姆
+域名,track.tiara.daum.net
+域名,track.tiara.kakao.com
+# > 谷歌
+域名后缀，googletagmanager.com
+域名后缀，google-analytics.com
+域名，safebrowsing.googleapis.com
+域名,safebrowsing.googleapis-cn.com
+# > GozenData
+# https://www.v2ex.com/t/772523
+域名后缀，gozendata.com
+域名后缀,gzads.com
+域名后缀,gz-data.com
+# > 成长IO
+域名后缀,giocdn.com
+域名后缀,growingio.com
+# > 米
+域名后缀,tracking.miui.com
+# DOMAIN,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
+域名,data.mistat.xiaomi.com
+域名,flash.sec.miui.com
+域名,tracking.intl.miui.com
+域名,a0.app.xiaomi.com
+DOMAIN,api.installer.xiaomi.com
+# > 微软
+域名,c.bing.com
+DOMAIN,c.clarity.ms
+DOMAIN,o.clarity.ms
+域名，www.clarity.ms
+# > 说话数据
+域名后缀,cpatrk.net
+域名后缀,talkingdata.com
+域名后缀,talkingdata.net
+域名后缀,udrig.com
+# > 腾讯
+域名,safebrowsing.urlsec.qq.com
+# > 天神
+域名,track.tenjin.com
+域名,track.tenjin.io
